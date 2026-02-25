@@ -36,6 +36,6 @@ Grâce à MLflow, chaque itération est enregistrée. Le modèle actuel atteint 
 2. **Installer les dépendances** :
    pip install -r requirements.txt
 3. **Lancer l'inférence** :
-   from models.predict import predict_article
-   result = predict_article("Votre texte ici...")
-   print(f"Score d'authenticité : {result['probability_real']}")
+   Vous pouvez tester le modèle immédiatement en exécutant le script de démonstration :
+   ```bash
+   python scripts/predict.py
