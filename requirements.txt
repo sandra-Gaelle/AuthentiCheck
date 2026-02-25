@@ -4,3 +4,4 @@ pyngrok
 pandas
 scikit-learn
 matplotlib
+kagglehub
