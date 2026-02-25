@@ -1,8 +1,8 @@
 # 🛡️ AuthentiCheck: Recommender System & Fake News Detection
 
-[![MLflow](https://img.shields.io/badge/MLflow-Tracking-blue)](https://mlflow.org/)
+[![MLflow](https://img.shields.io/badge/MLflow-Tracking-blue)]([https://mlflow.org/](https://olivary-nereida-sievelike.ngrok-free.dev)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange)](https://tensorflow.org/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+[![Custom License]](LICENSE.txt)
 
 ## 📌 Vision du Projet
 Dans un écosystème numérique saturé, l'intégrité de l'information est un pilier de la confiance utilisateur. **AuthentiCheck** est un système de détection basé sur le NLP conçu pour attribuer un **score d'authenticité** aux contenus textuels. 
