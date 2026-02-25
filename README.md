@@ -1,6 +1,6 @@
 # 🛡️ AuthentiCheck: Recommender System & Fake News Detection
 
-[![MLflow](https://img.shields.io/badge/MLflow-Tracking-blue)]([https://mlflow.org/](https://olivary-nereida-sievelike.ngrok-free.dev)
+[![MLflow](https://img.shields.io/badge/MLflow-Tracking-blue)]([[https://mlflow.org/](https://olivary-nereida-sievelike.ngrok-free.dev)](https://olivary-nereida-sievelike.ngrok-free.dev)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-orange)](https://tensorflow.org/)
 [![Custom License]](LICENSE.txt)
 
